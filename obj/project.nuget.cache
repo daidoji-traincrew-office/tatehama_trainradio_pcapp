@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XrBpWPa1AB4=",
+  "dgSpecHash": "guQQysmKhPI=",
   "success": true,
   "projectFilePath": "C:\\Users\\yuma1\\Documents\\GitHub\\tatehama_trainradio_pcapp\\tatehama_trainradio_pcapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yuma1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\yuma1\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\yuma1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\yuma1\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
