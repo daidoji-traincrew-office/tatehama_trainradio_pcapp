@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tatehama_trainradio_pcapp
-build_property.ProjectDir = C:\Users\yuma1\Documents\GitHub\tatehama_trainradio_pcapp\
+build_property.ProjectDir = C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_pcapp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

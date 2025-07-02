@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuma1\\Documents\\GitHub\\tatehama_trainradio_pcapp\\tatehama_trainradio_pcapp.csproj",
+      "projectUniqueName": "C:\\Users\\yuma1\\OneDrive\\ドキュメント\\GitHub\\tatehama_trainradio_pcapp\\tatehama_trainradio_pcapp.csproj",
       "projectName": "tatehama_trainradio_pcapp",
-      "projectPath": "C:\\Users\\yuma1\\Documents\\GitHub\\tatehama_trainradio_pcapp\\tatehama_trainradio_pcapp.csproj",
+      "projectPath": "C:\\Users\\yuma1\\OneDrive\\ドキュメント\\GitHub\\tatehama_trainradio_pcapp\\tatehama_trainradio_pcapp.csproj",
       "packagesPath": "C:\\Users\\yuma1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuma1\\Documents\\GitHub\\tatehama_trainradio_pcapp\\obj\\",
+      "outputPath": "C:\\Users\\yuma1\\OneDrive\\ドキュメント\\GitHub\\tatehama_trainradio_pcapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuma1\\AppData\\Roaming\\NuGet\\NuGet.Config"

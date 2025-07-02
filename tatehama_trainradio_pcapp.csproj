@@ -11,6 +11,10 @@
   <ItemGroup>
     <PackageReference Include="QRCoder" Version="1.6.0" />
     <PackageReference Include="WebSocketSharp-netstandard" Version="1.0.1" />
+    <None Remove="Assets\logo.png" />
+    <Resource Include="Assets\logo.png" />
+    <None Remove="Assets\Discord.png" />
+    <Resource Include="Assets\Discord.png" />
   </ItemGroup>
 
 </Project>
